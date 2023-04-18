@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+#head{
+	background-color:rgb(120,30,50,1);
+	color:white;
+}
+
+#first_data{
+	background-color:lightpink;
+}
+#second_data{
+	background-color:grey;
+}
+#third_data{
+	background-color:lightgray;
+}
